@@ -2,9 +2,11 @@
 
 ## Judul Proyek
 <p>TodoApp</p>
+
 ## Pengenalan
 <p><a>Aulia wira yudha mustopa</a></p>
 <p><a>22552012039</a></p>
+
 ## Penjelasan Proyek
 <p>mengenai sistem penjadwalan sederhana </p>
 ## Komponen Proyek
